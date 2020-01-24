@@ -12,6 +12,7 @@ package studentcodeweek2;
  */
 public class Student 
 {
+    // adding this comment to GitHub to test pull
     private String name;
     private String studentID;
     private String program;
